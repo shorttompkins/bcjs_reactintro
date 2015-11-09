@@ -29,7 +29,7 @@ class: center, middle
 <br/><br/>
 Dad, Author, Gamer, Geek!
 
-[shorttompkins.js.org/talks/reactintro](http://shorttompkins.js.org/talks/reactintro)
+[shorttompkins.js.org/talks/bcjs_reactintro](http://shorttompkins.js.org/talks/bcjs_reactintro)
 [**github.com/shorttompkins/bcjs_reactintro**](http://github.com/shorttompkins/bcjs_reactintro)
 
 ---
